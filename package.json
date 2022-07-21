@@ -1,5 +1,5 @@
 {
-  "name": "projetos",
+  "name": "Simple API Crud",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Israel de Araujo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
